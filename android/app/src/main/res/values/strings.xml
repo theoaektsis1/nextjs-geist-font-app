@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ikonmediaapp</string>
+    <string name="title_activity_main">ikonmediaapp</string>
+    <string name="package_name">com.ikonmedia.app</string>
+    <string name="custom_url_scheme">com.ikonmedia.app</string>
+</resources>
